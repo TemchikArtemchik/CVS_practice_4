@@ -9,6 +9,5 @@ int main(int argc, char * argv[])
 	printf("Welcome to the club, buddy\n");
 
 	printf("Oh shit, I'am sorry!\n");
-
 	return 0;
 }
